@@ -95,8 +95,8 @@ export default {
   },
   methods: {
     helloThisIsTheLast() {
-      // TODO Hello Tiffany
-      //  Ca va Tiffany?
+      // TODO Feature de la mort
+      //  faire un truc de la mort
       //  labels: enhancement, help wanted
     }
   }
