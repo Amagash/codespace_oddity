@@ -94,7 +94,7 @@ export default {
     VuetifyLogo
   },
   methods: {
-    helloThisIsTheLast() {
+    helloThisIsTheLast () {
       // TODO Feature de la mort
       //  faire un truc de la mort
       //  labels: enhancement, help wanted
