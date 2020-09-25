@@ -103,6 +103,11 @@ export default {
       // TODO Feature de la mort2
       //  faire un truc de la mort qui tue2
       //  labels: enhancement, help wanted
+    },
+    helloThisIsTheLast3 () {
+      // TODO Feature de la mort2
+      //  faire un truc de la mort qui tue2
+      //  labels: enhancement, help wanted
     }
   }
 }
