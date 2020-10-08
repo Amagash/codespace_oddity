@@ -11,7 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Notifier
-        uses: manekinekko/github-action-issues-notifier@master
+        uses: manekinekko/github-action-issues-notifier@preview
         id: notifier
         with:
           smtpHost: ${{ secrets.SMTP_HOST }}
