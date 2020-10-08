@@ -95,10 +95,11 @@ export default {
   },
   methods: {
     helloThisIsTheLast () {
-      // TODO Feature de la mort
-      //  faire un truc de la mort qui tue
-      //  labels: enhancement, help wanted
+      // TODO Feature
+      //  faire un truc
+      //  labels: enhancement, help wanted, urgent
     }
+    
   }
 }
 </script>
