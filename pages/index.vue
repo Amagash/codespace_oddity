@@ -95,9 +95,9 @@ export default {
   },
   methods: {
     helloThisIsTheLast () {
-      // TODO Feature de la mort
-      //  faire un truc de la mooort
-      //  labels: enhancement, help wanted, urgent
+      // TODO Feature
+      //  faire un truc
+      //  labels: enhancement, help wanted
     }
   }
 }
