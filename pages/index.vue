@@ -95,7 +95,7 @@ export default {
   },
   methods: {
     helloThisIsTheLast () {
-      // TODO Feature de la mort
+      // TODO Feature de la mort pour Olivier
       //  faire un truc de la mort qui tue 
       //  labels: enhancement, help wanted
     }
